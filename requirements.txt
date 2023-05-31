@@ -1,0 +1,7 @@
+numpy==1.24.3
+pandas==2.0.1
+tensorboard==2.13.0
+tensorboard-data-server==0.7.0
+tensorflow-estimator==2.13.0rc0
+tensorflow-macos==2.13.0rc0
+pyEDFlib==0.1.32
