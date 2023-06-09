@@ -5,3 +5,6 @@ tensorboard-data-server==0.7.0
 tensorflow-estimator==2.13.0rc0
 tensorflow-macos==2.13.0rc0
 pyEDFlib==0.1.32
+sklearn==1.2.2
+hyperopt==0.2.7
+imblearn=0.10.1
