@@ -12,3 +12,5 @@ prettytable==3.8.0
 plotly==5.14.1
 shap==0.41.0
 imblearn==0.0
+joblib==1.2.0
+tslearn==0.5.3.2
