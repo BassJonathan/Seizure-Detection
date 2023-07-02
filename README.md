@@ -44,7 +44,7 @@ This notebook uses a convolutional autoencoder, which is trained on the entire t
 This notebook uses a convolutional autoencoder, which is trained only on EEG data without epilleptic seizures. When data with a seizure are processed by the neural network, a higher reconstruction error is generated, which enables a classification.
 
 `03_Seizure Type Classification/02_Autoencoder Latent Space Clustering.ipynb` <br>
-This notebook uses a convolutional autoencoder trained only on EEG data without epilleptic seizures. The goal is to detect different seizure types based on the latent space by unsupervised clustering.
+This notebook uses a convolutional autoencoder trained only on EEG data with epilleptic seizures. The goal is to detect different seizure types based on the latent space by unsupervised clustering.
 
 `04_Model Comparison.ipynb` <br>
 This notebook includes the comparison of the created models based on valid metrics and draws a conclusion as well as a critical reflection of the obtained results.
